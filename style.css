@@ -1,0 +1,28 @@
+  .images img{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    border: 5px rgb(255, 179, 102) solid;
+  }
+
+  footer{
+    height: 100px;
+    color: magenta;
+    background-color: yellow;
+    text-align: center;
+    padding: 25px;
+    font-size: 24px;
+}
+
+  body{
+   font-family: 'Gaegu', cursive;
+   background-color: pink;
+ }
+
+ #ingredients{
+   background-color: #00ff00;
+ }
+
+ #Instuctions{
+   background-color: #00ffff
+ }
